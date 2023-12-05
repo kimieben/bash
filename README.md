@@ -3,7 +3,10 @@ I am testing how to connect to ssh and run erl using Python code that will run a
 
 Anything helps.
 # Thanks.
+<<<<<<< HEAD
 
 log:
 ???
 # ???
+=======
+>>>>>>> ae6ad4a4d0e0711ac5690a40f8841ee972658b81
