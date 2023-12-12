@@ -1,6 +1,7 @@
 import GPIO 
 import tkinter as tk
 
-cmd = 'ssh root@192.168.5.149'
+a = [[1,2],
+        2,3]]
 
-exit()
+print(a)
