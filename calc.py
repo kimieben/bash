@@ -1,9 +1,20 @@
 print('First value?')
-a = input()
+a = int(input())
 print('Second value?')
-b = input()
+b = int(input())
 print('Operation? (+-*/)')
 c = input()
 
 print(a, c, b)
+if (c == '+'):
+    d = a + b
+elif (c == '-'):
+    d = a-b
+elif (c == '/'):
+    d = a/b
+elif (c == '*'):
+    d = a*b
+else:
+    print("Please input correct operation")
 
+print(d)
