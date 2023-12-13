@@ -18,3 +18,20 @@ else:
     print("Please input correct operation")
 
 print(d)
+
+print("NEXT")
+f = input()
+print("What?")
+g = int(input())
+
+if (g < 50):
+    print(g*d, f)
+elif (g > 50):
+    print(g/d, f)
+else:
+    print('50')
+
+
+
+
+
