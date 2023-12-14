@@ -1,6 +1,6 @@
-a = 109000
-b = 90
+a = int(1)
+b = 5
 
-c = a/b
-print(c)
+print(a + b)
+
 
