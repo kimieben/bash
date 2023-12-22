@@ -5,3 +5,6 @@ qmb/qmr/pmh
 glenmarie
 gsc
 
+172.30.0.9 main server
+172.30.0.1 gateway & dns
+
