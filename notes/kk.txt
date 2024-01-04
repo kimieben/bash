@@ -1,3 +1,8 @@
 learned about mv options
+
+-u for new file ?
+-i for interactive
+-f for force
+
 2024-01-04
 
