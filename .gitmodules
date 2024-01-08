@@ -1,0 +1,6 @@
+[submodule "Doorbell-via-Wemos-and-optocoupler"]
+	path = Doorbell-via-Wemos-and-optocoupler
+	url = https://github.com/tIsGoud/Doorbell-via-Wemos-and-optocoupler.git
+[submodule "Pi-Power-Supply-Isolated-GPIO-Board"]
+	path = Pi-Power-Supply-Isolated-GPIO-Board
+	url = https://github.com/armtronix/Pi-Power-Supply-Isolated-GPIO-Board.git
