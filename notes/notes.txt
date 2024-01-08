@@ -1,0 +1,8 @@
+finished glenmarie setup
+	model num: ur640s
+	doesn't support si server
+	doesn't support developer mode on web browser
+
+setup for gsc videowall
+	mqtt doesn't work at the moment
+
